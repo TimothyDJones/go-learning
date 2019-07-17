@@ -1,3 +1,7 @@
+# https://gochronicles.dev/posts/algorithms/bubble-sort/
+# To run test:
+#   go test -v
+
 package sorting
 
 import (
